@@ -1,0 +1,36 @@
+Title: Sarkhan Babayev, Nazrin Sharbatli, Ilkin Majidov — Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Description:
+Comprehensive Overview of Operational Amplifiers (Op-Amps)
+This guide provides a technical breakdown of the core principles, parameters, and applications of Operational Amplifiers, as illustrated in the provided visual materials.
+
+1. Introduction & Key Parameters
+Operational Amplifiers are high-gain electronic voltage amplifiers with differential inputs. Understanding their parameters is essential for circuit design:
+- Input Modes: Op-Amps can operate in Differential Mode (amplifying the difference between two inputs) or Common Mode (rejecting signals common to both).
+- Impedance: Ideally, an Op-Amp has infinite Input Impedance (drawing no current) and zero Output Impedance.
+- Slew Rate: This defines the maximum rate of change of the output voltage per unit of time (e.g., V/μs).
+- Non-Idealities: In real-world scenarios, engineers must account for Input Bias Current and Input Offset Voltage, which can introduce small errors in precision circuits.
+
+2. The Power of Negative Feedback
+Most Op-Amp applications utilize a Negative Feedback Loop — returning a portion of the output to the inverting input.
+- Gain Stabilization: While "Open-Loop" gain is extremely high and unstable, negative feedback allows for a precise, predictable Closed-Loop Gain.
+- Improved Linearity: It reduces distortion and makes the amplifier's performance less dependent on temperature or manufacturing variations.
+- Trade-off: Using feedback increases the Bandwidth (the range of frequencies the device can handle) at the expense of total gain.
+
+3. Frequency and Phase Response
+An Op-Amp's performance is frequency-dependent:
+- Gain-Bandwidth Product (GBP): As the frequency of the input signal increases, the open-loop gain drops.
+- Phase Shift: At higher frequencies, a phase lag occurs between the input and output. Monitoring the Phase Margin is critical to ensure the circuit does not become unstable or begin to oscillate.
+
+4. Common Configurations & Applications
+The versatility of the Op-Amp allows it to perform various mathematical and signal-processing tasks:
+- Comparator: Compares two voltages and switches the output to either the positive or negative supply rail (V_out = H/L).
+- Summing Amplifier: Combines multiple input signals into a single output, weighted by resistor values:
+  V_out = -(R_f / R_in) × (V_1 + V_2 + V_3)
+- Integrators & Differentiators: These circuits perform calculus on the input signal.
+  - Integrator: Produces an output proportional to the integral of the input over time (often used in filters).
+  - Differentiator: Produces an output proportional to the rate of change of the input signal.
+
+Note: These principles form the foundation of analog signal processing, from simple audio amplification to complex sensor interfacing in industrial systems.
+
+Tags: electricity, physics, télécommunications

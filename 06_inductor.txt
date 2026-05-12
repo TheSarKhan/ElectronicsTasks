@@ -1,0 +1,38 @@
+Title: Sarkhan Babayev, Nazrin Sharbatli, İlkin Macidov — Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Description:
+Understanding the Inductor: Fundamentals & Applications
+An inductor is a passive electronic component that stores energy in a magnetic field when electric current flows through it. While capacitors resist changes in voltage, inductors resist changes in current.
+
+1. How It Works (The Physics)
+When current passes through a coil of wire, it creates a magnetic flux (Φ). If the current changes, the magnetic field also changes, which induces an electromotive force (EMF) that opposes the initial change in current. This is known as Lenz's Law.
+- Steady Current: The inductor acts like a simple wire (with minimal resistance).
+- Changing Current: The inductor generates a "back EMF" to fight the change.
+
+2. Key Formulas & Units
+The ability of an inductor to store energy is called Inductance (L).
+- Unit of Measurement: Henry (H), commonly found in millihenries (mH) or microhenries (μH).
+- Magnetic Flux: Φ = L · I
+- Stored Energy: W = (1/2) · L · I²
+
+3. Common Types of Inductors
+Inductors are categorized by their core material and physical shape:
+- Air Core: No magnetic core; wire is wound on a hollow form. — High-frequency applications (Radio/TV).
+- Iron Core: Higher inductance due to the magnetic properties of iron. — Audio equipment and power supplies.
+- Ferrite Core: Uses a ceramic-magnetic mix. — High-frequency suppression and EMI filtering.
+- Toroidal: Shaped like a donut to contain the magnetic field. — Transformers and high-efficiency power circuits.
+
+4. Important Characteristics
+When selecting an inductor, engineers look at these critical specs:
+- DCR (DC Resistance): The internal resistance of the wire used in the coil.
+- Saturation Current: The point where the core cannot hold any more magnetic flux.
+- Quality Factor (Q): A measure of efficiency (energy stored vs. energy lost).
+- SRF (Self-Resonant Frequency): The frequency at which the inductor starts acting like a capacitor.
+
+5. Common Applications
+- Filtering: Removing "ripple" from DC power supplies.
+- Energy Storage: Used in switching regulators (like your phone charger).
+- Chokes: Blocking high-frequency AC while letting low-frequency DC through.
+- Tuning: Combined with capacitors to select specific radio frequencies.
+
+Pro Tip: In a circuit diagram, an inductor is represented by a series of curly loops — mimicking the physical wire coil it actually is!

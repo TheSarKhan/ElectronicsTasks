@@ -1,0 +1,29 @@
+Title: Sarkhan Babayev, İlkin Macidov — Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Description:
+AN ENGINEERING DOCUMENTARY
+Subject: Operational Principles and Analysis of Electronic Amplifiers
+Classification: Technical Guide / Educational Documentary
+Date: April 2026
+
+Sarkhan Babayev, İlkin Majidov
+Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Executive Summary: Theory of Amplifiers
+
+1. Introduction to Electronic Amplification
+An amplifier, or electronic amplifier, is a distinct device utilized to augment the magnitude of a signal's power, voltage, or current. By consuming energy from an external power supply (such as DC voltage sources), the amplifier transforms a low-amplitude input signal into a significantly stronger output signal while adhering to the original signal's waveform characteristics. This principle constitutes a foundational pillar of modern electronics, with critical applications ranging from acoustic reinforcement in audio engineering to long-range telecommunications transmission.
+
+2. Core Definitions and Functional Parameters
+To adequately analyze amplifier performance, several fundamental parameters must be defined:
+- Input Signal (V_in / P_in): The foundational, low-amplitude signal introduced into the amplifier's input stage for processing.
+- Output Signal (V_out / P_out): The resulting signal generated at the amplifier's output stage, characterized by increased amplitude derived from the DC source power.
+- Gain (A): A precise quantitative measure of amplification efficiency, defined mathematically as the ratio of the output signal magnitude to the input signal magnitude.
+  - Voltage Gain Formula: A_V = V_out / V_in
+- Clipping and Non-Linear Distortion: A phenomenon occurring when the required output voltage exceeds the operational limits defined by the DC power supply rails (saturation limit). The resulting truncation of the signal peaks creates a "flat-topped" waveform, introducing severe harmonic distortion and signal degradation.
+
+Technical Demonstration: Interactive Signal Simulation
+
+3. Methodology
+The subsequent simulation provides a dynamic visual environment to analyze the linear and non-linear behavior of a fundamental amplifier model.
+By manipulating the operational parameters via the provided sliders, the user can observe the real-time relationship between input amplitude, system gain, and output characteristics. This visualization clearly demonstrates the onset of signal clipping when the theoretical output exceeds the established voltage saturation thresholds.

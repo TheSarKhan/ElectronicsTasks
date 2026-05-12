@@ -1,0 +1,28 @@
+Title: Sarkhan Babayev, İlkin Macidov — Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Description:
+AN ENGINEERING DOCUMENTARY
+Subject: Operational Principles and Analysis of Electronic Amplifiers
+Classification: Technical Guide / Educational Documentary
+Date: April 2026
+
+Sarkhan Babayev, İlkin Majidov
+Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Executive Summary: Advanced Theory of Amplifiers
+
+1. Introduction to Electronic Amplification and Energy Conversion
+An amplifier, or electronic amplifier, is a distinct active circuit utilized to augment the magnitude of a signal's power, voltage, or current. At its core, an amplifier does not "create" energy; rather, it functions as a highly precise energy converter. By consuming direct current (DC) energy from an external power supply, the amplifier's active components (such as bipolar junction transistors, field-effect transistors, or operational amplifiers) modulate this energy to construct a significantly stronger alternating current (AC) output signal. This output must strictly adhere to the temporal and spectral characteristics of the low-amplitude input waveform. This principle constitutes a foundational pillar of modern analog electronics, with critical applications ranging from acoustic reinforcement in high-fidelity audio engineering to signal boosting in long-range radio frequency (RF) telecommunications.
+
+2. Core Definitions, Functional Parameters, and Metrics
+To adequately analyze and design amplifier circuits, engineers rely on several fundamental parameters beyond basic signal magnitude:
+- Input Signal (V_in / P_in): The foundational, low-amplitude stimulus introduced into the amplifier's input stage. The input stage is characterized by its Input Impedance (Z_in), which dictates how much current the amplifier draws from the preceding signal source.
+- Output Signal (V_out / P_out): The resulting augmented signal generated at the amplifier's output stage. This stage is defined by its Output Impedance (Z_out), which determines how effectively the amplifier can drive a specific load (like a speaker or antenna).
+- System Gain (A): A precise quantitative measure of amplification efficiency. While standard gain is a linear ratio, it is most frequently expressed logarithmically in Decibels (dB) to represent the vast dynamic ranges in electronics:
+  - Voltage Gain: A_V = V_out / V_in (or in Decibels: 20 log_10(A_V))
+  - Power Gain: A_P = P_out / P_in (or in Decibels: 10 log_10(A_P))
+- Bandwidth (Frequency Response): The specific range of frequencies (from lower cutoff f_L to upper cutoff f_H) over which the amplifier can maintain a consistent gain without significant attenuation.
+
+3. Amplifier Classification (Classes of Operation)
+Amplifiers are systematically categorized by their "Class," which defines the operational conduction angle of the active amplifying devices:
+- Class A: The active element conducts 100% of the time. Offers the highest fidelity and linearity but suffers from extreme [description truncated at 3000 character SlideShare limit]

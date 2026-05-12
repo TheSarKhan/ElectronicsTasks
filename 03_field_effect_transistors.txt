@@ -1,0 +1,60 @@
+Title: Sarkhan Babayev, Farid Alakbarov — Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Description:
+AN ENGINEERING DOCUMENTARY
+Subject: COMPREHENSIVE TECHNICAL REPORT: FIELD EFFECT TRANSISTORS (FETs)
+Classification: Technical Guide / Educational Documentary
+Date: April 2026
+
+Sarkhan Babayev, Farid Alakbarov
+Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Field Effect Transistors (FETs) are voltage-controlled semiconductor devices used to regulate current flow between terminals. They offer high input impedance, low noise, and are widely used in both analog and digital circuits. MOSFETs, in particular, are the foundation of modern electronics such as microprocessors and power systems.
+
+1. Introduction to Field Effect Transistors (FETs)
+The Field Effect Transistor (FET) is a three-terminal semiconductor device that controls the electrical current flowing between two terminals (Source and Drain) by applying an electric field to a third terminal (Gate).
+Unlike the Bipolar Junction Transistor (BJT), which is a current-controlled device (base current controls collector current), the FET is fundamentally a voltage-controlled device (gate voltage controls drain current).
+Because its operation relies on only one type of charge carrier — either electrons (n-channel) or holes (p-channel) — it is classified as a unipolar device.
+
+1.1 Fundamental Operating Principle
+In a FET, the gate voltage modulates the conductivity of a semiconductor channel. When a voltage is applied to the gate, it alters the width of a depletion region within the channel, thereby increasing or decreasing the resistance between the drain and source terminals.
+This voltage-controlled resistance is the core mechanism enabling amplification and switching.
+
+1.2 Key Advantages of FETs Over BJTs
+- Input Impedance: Extremely High (MΩ to TΩ) — Gate draws negligible current
+- Noise Figure: Low Noise — Less shot and recombination noise
+- Thermal Stability: High — Negative temperature coefficient
+- Manufacturing Density: Very High — Scales to nanometers
+- Offset Voltage: Near Zero — No base-emitter requirement
+
+2. The Junction Field Effect Transistor (JFET)
+The JFET is the earliest type of FET. It consists of a semiconductor channel with a gate region of opposite doping.
+
+2.1 Structure and Operation
+- n-channel: electrons carry current
+- p-channel: holes carry current
+- Reverse bias on the gate widens the depletion region and reduces current.
+
+2.2 Characteristics — Regions of Operation
+- Ohmic Region: Acts like a resistor (Low V_DS)
+- Saturation Region: Acts like current source (Used for amplification)
+- Breakdown Region: Device damage risk
+
+Shockley Equation:
+ID = IDSS * (1 - VGS / VGS(off))²
+Where:
+- IDSS = max drain current
+- VGS(off) = cutoff voltage
+
+2.3 Biasing Methods
+- Self Bias: Medium stability — Simple circuits
+- Voltage Divider: High stability — Precision circuits
+- Current Source: Very High stability — IC design
+
+Self-bias formula:
+VGS = -ID * RS
+
+3. Ohmic Region (Voltage Variable Resistor)
+JFET behaves like a resistor when VDS is small.
+Approximate resistance:
+rds ≈ V [description truncated at 3000 character SlideShare limit]
