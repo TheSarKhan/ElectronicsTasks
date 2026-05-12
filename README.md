@@ -1,3 +1,25 @@
+# Electronics Tasks
+
+Collection of electronics engineering documents and presentations originally
+published on [SlideShare](https://www.slideshare.net/SarkhanBabayev). Each
+topic includes a PDF and a matching `.txt` file with the SlideShare description.
+
+## Index
+
+| # | Topic | SlideShare | Authors | Verified |
+|---|-------|------------|---------|----------|
+| 01 | Operational Amplifiers (Op-Amps) | [link](https://www.slideshare.net/slideshow/sarkhan-babayev-nazrin-sharbatli-ilkin-majidov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287466396) | Sarkhan Babayev · Nazrin Sharbatli · Ilkin Majidov | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 02 | Embedded Systems — Market Opportunities | [link](https://www.slideshare.net/slideshow/embedded-systems-market-opportunities-sarkhan-nazrin-ilkin-barish-revan-farid/287349858) | Sarkhan Babayev · Nazrin · Ilkin · Barish · Revan · Farid | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 03 | Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/sarkhan-babayev-farid-alakbarov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287120281) | Sarkhan Babayev · Farid Alakbarov | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 04 | Electronic Amplifiers — Operational Principles | [link](https://www.slideshare.net/slideshow/sarkhan-babayev-ilkin-macidov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-f065/286994915) | Sarkhan Babayev · İlkin Macidov | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 05 | Amplifiers — Introduction & Theory | [link](https://www.slideshare.net/slideshow/sarkhan-babayev-ilkin-macidov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/286994816) | Sarkhan Babayev · İlkin Macidov | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 06 | Inductor Fundamentals | [link](https://www.slideshare.net/slideshow/sarkhan-babayev-nazrin-sharbatli-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-1e9b/286873801) | Sarkhan Babayev · Nazrin Sharbatli · İlkin Macidov | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 07 | Understanding the Inductor (v2) | [link](https://www.slideshare.net/slideshow/sarkhan-babayev-nazrin-sharbatli-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-58d0/286873799) | Sarkhan Babayev · Nazrin Sharbatli | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 08 | Understanding the Inductor (v3) | [link](https://www.slideshare.net/slideshow/sarkhan-babayev-nazrin-sharbatli-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/286873388) | Sarkhan Babayev · Nazrin Sharbatli | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 09 | The Transistor — Explained 10× Simpler | [link](https://www.slideshare.net/slideshow/transistor-sarkhan-babayev-ramal-damirli-nazrin-sharbatli-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/286763222) | Sarkhan Babayev · Ramal Damirli · Nazrin Sharbatli | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+
+---
+
 --------------------
 1.Topic
 
